@@ -4,7 +4,7 @@ Sales and Marketing suggestions based on Customer Segmentation Analysis
 
 This repository contains the work and findings for a project focused on customer segmentation for a hotel chain that expanded its operations in 2015. The main goal of the project is to help the marketing department better understand its customers and tailor its strategy accordingly.
 
-Problem Statement
+# Problem Statement
 
 
 With the acquisition of new hotels, the hotel chain decided to invest more in marketing. In 2018, a new marketing manager, A, was hired, and they realized that the current customer segmentation was inadequate. It only reflected the sales origin and did not take into account geographic, demographic, or behavioral characteristics.
@@ -12,7 +12,7 @@ With the acquisition of new hotels, the hotel chain decided to invest more in ma
 
 Without proper customer segmentation, it's difficult to define a strategy to reach new customers and retain current ones. Different customer groups have different booking habits and preferences, which need to be considered when creating products, setting prices, and designing advertising campaigns.
 
-Objective:
+# Objective:
 
 
 Explore the data and identify variables to segment customers
@@ -27,7 +27,7 @@ Suggest business applications for the findings
 
 
 
-Summary
+# Summary
 
 
 

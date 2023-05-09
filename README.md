@@ -16,10 +16,15 @@ Objective:
 
 
 Explore the data and identify variables to segment customers
+
 Use K-Means clustering to identify customer segments
+
 Justify the selection of K, considering the business use
+
 Apply PCA to reduce dimensionality and speed up model development
+
 Suggest business applications for the findings
+
 
 
 Summary

@@ -1,4 +1,4 @@
-# HotelCustomerSegmentation
+# Hotel Customer Segmentation
 Sales and Marketing suggestions based on Customer Segmentation Analysis 
 
 
